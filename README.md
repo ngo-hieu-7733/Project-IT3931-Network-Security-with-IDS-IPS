@@ -14,8 +14,7 @@ Mô hình gồm 3 máy ảo chính trong VirtualBox:
 - **Victim**: Máy bị tấn công, chạy dịch vụ (VD: Web Server).  
 
 Sơ đồ kết nối:
-Attacker <----> pfSense <----> Victim
-(Images/w2-general-topology.png)
+![Sơ đồ topology](Images/w2-general-topology.png)
 
 ---
 
