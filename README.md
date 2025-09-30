@@ -15,6 +15,7 @@ Mô hình gồm 3 máy ảo chính trong VirtualBox:
 
 Sơ đồ kết nối:
 Attacker <----> pfSense <----> Victim
+(Images/w2-general-topology.png)
 
 ---
 
