@@ -6,7 +6,7 @@ Mục tiêu nhằm nghiên cứu cách attacker có thể tấn công, và cách
 
 ---
 
-## 🖥️ Cấu trúc hệ thống
+## Cấu trúc hệ thống
 Mô hình gồm 3 máy ảo chính trong VirtualBox:
 
 - **Attacker**: Máy giả lập kẻ tấn công (ví dụ: Kali Linux).  
@@ -18,7 +18,7 @@ Sơ đồ kết nối:
 
 ---
 
-## ⚙️ Thiết lập môi trường
+## Thiết lập môi trường
 1. **Cài đặt VirtualBox** và tạo 3 VM: Attacker, pfSense, Victim.  
 2. **Cấu hình card mạng**:  
    - Attacker ↔ pfSense (NAT Network)  
