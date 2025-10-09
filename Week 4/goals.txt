@@ -1,0 +1,18 @@
+sql ịn
+nguyen ly hoat dong
+giai thich ma nguon - phan tich
+tra tat ca payload sql injection
+viet script burp suite -> chay tu dong
+record video  cho vao bao cao
+
+cach viet luat snort cho sql
+
+payload, ket qua
+luu lại log apache, snort, pcap
+
+
+-----
+framework tự động
+viết module
+
+một hệ thống hoàn chỉnh
